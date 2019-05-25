@@ -7,7 +7,6 @@ target 'Keyboard' do
 
   # Pods for Keyboard
   pod 'Masonry'
-  pod 'Firebase/Core'
 
 end
 
